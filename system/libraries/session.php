@@ -1,9 +1,7 @@
 <?php
 
 namespace Mooo\System\Session;
-http://www.perfectgirls.net/227350/Priya_Rya_was_getting_nailed_on_a_yacht_while_she_was_having_fun_with_her_friends
 
-// hashing session ids
 /**
  * This class handles operations on sessions such as enabling them in the script,
  * or getting/setting information from its global variables
